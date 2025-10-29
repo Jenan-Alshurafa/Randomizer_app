@@ -1,6 +1,6 @@
 # radomizer_app
 
-A new Flutter project.
+A mini flutter app that suggests random names with the ability to favorite liked names.
 
 ## Getting Started
 
